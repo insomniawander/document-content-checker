@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+.venv/
+.web_deps/
+test_output*/
+tmp*/
+核对结果/
+
